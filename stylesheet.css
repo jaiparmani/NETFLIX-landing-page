@@ -1,0 +1,13 @@
+.backgroundImage{
+
+  color: blue;
+  background-color: blue;
+  /* background-image: image('background.jpg'); */
+
+}
+body{
+  color: gray;
+}
+a{
+  text-decoration: overline;
+}
